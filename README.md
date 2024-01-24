@@ -1,4 +1,4 @@
-# Desafio Delphi Backend
+# Desafio Front Delphi + Backend
 
 ## Passos para realizar o desafio
 
@@ -10,7 +10,8 @@
 
 ## Backend API Consulta de CEPS
 
-> Importante: O backend deve ser desenvolvido utilizando a linguagem em que voce tenha maior domínio, pois iremos analisar seus skillss de codificação e boas praticas de desenvolvimento.
+> Importante: O backend deve ser desenvolvido utilizando a linguagem em que voce tenha maior domínio, pois iremos analisar seus skills de codificação e boas praticas de desenvolvimento.
+> Não precisa ser em Delphi, inclusive recomenda-se que não seja fim de nos mostrar domínio em outra linguagem.
 
 O desafio é implementar um backend REST para uma aplicação de consulta de CEPS.
 
