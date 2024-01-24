@@ -79,8 +79,5 @@ Os adicionais não são obrigatórios, mas considere implementa-los. Lembre-se d
 - Beleza da aplicação,Design gráfico de UI, uso de ícones, imagens,animações, etc... Apesar de ser importante, não é o foco deste exercício.
 - Coisas extras implementadas que não foram solicitadas.
   
-## Entrega
-o programa deverá ser entregue o executável, que deve abrir sem erros, o fonte zipado. Após a entrega, o programa será analisado e poderei solicitar alterações a fim de avaliar o entendimento do candidato referente ao que foi desenvolvido bem como avaliar como o candidato Responde e recebe críticas ao seu trabalho.
-
 ## Prazo: 
 O prazo deverá ser calculado pelo candidato antes de iniciar o trabalho e informado.
