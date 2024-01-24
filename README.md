@@ -42,7 +42,7 @@ Utilize o banco de dados que tiver maior facilidade e que atenda as necessidades
 
 ## Front Aplicativo Consulta de CEPs em Delphi
 
-O desenvolvimento do aplicativo consiste em consumir a API de consulta de CEP
+O desenvolvimento do aplicativo consiste em consumir a API de consulta de CEP. Ao contrário do Backend, o Front precisa ser desenvolvido em Delphi.
 
 Seu objetivo é realizar o consumo desta API, seguindo o escopo abaixo:
 
